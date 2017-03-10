@@ -1,0 +1,18 @@
+.masthead {
+  background-color: #423ca3;
+}
+
+.btn {
+  background-color: #15114c;
+  border-style: none;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color:  #15114c;
+}
+
+.logo {
+  text-align: center;
+  color: #fff;
+}
