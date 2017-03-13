@@ -1,11 +1,15 @@
+html {
+
+}
 .masthead {
   background-color: #423ca3;
-  padding-bottom: 1em;
+  text-align: center;
 }
 
 .btn {
   background-color: #15114c;
   border-style: none;
+  border-radius: 10px;
 }
 
 .btn:hover {
@@ -16,4 +20,23 @@
 .logo {
   text-align: center;
   color: #fff;
+}
+
+.nav {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .nav {
+    text-align: left;
+  }
+
+  .logo {
+    text-align: left;
+  }
+
+  .masthead {
+    text-align: left;
+  }
 }
