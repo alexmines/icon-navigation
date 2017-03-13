@@ -1,5 +1,5 @@
 html {
-
+  font-family: 'Abhaya Libre', serif;
 }
 .masthead {
   background-color: #423ca3;
@@ -29,7 +29,7 @@ html {
 @media only screen and (min-width: 60em) {
 
   .nav {
-    text-align: left;
+    text-align: right;
   }
 
   .logo {
